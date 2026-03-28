@@ -1,6 +1,3 @@
 {
-  "buildCommand": "npm run build",
-  "env": {
-    "VERCEL_GIT_LFS": "1"
-  }
+  "buildCommand": "npm run build"
 }
