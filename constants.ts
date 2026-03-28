@@ -7,7 +7,7 @@ export const FILMS: Film[] = [
     year: '2023',
     director: 'MIKA ŌGAI',
     status: 'Short Documentary',
-    thumbnailUrl: 'https://storage.googleapis.com/somnia/GEO_GRADE_00_15_19_12.jpg',
+    thumbnailUrl: '/images/glossary of an empty orchestra.jpeg',
     synopsis:
       "Boundaries between reality, memories and dreams are temporarily dissolved in order to parallel the film-maker’s internal sense of liminality as a ‘hāfu’ (half-Japanese, half-Australian). Drawing on Japanese folklore, memories of the past, and contemporary anxieties, the narrator journeys across her father’s hometown of Sōma, Fukushima, in search of a language that can temporarily capture such liminal sensations.",
   },
@@ -17,7 +17,7 @@ export const FILMS: Film[] = [
     year: '2025',
     director: 'JESSIE IRVIN ROSE',
     status: 'Short Fiction',
-    thumbnailUrl: 'https://storage.googleapis.com/somnia/14070029.JPG',
+    thumbnailUrl: '/images/Ways that I have died.jpeg',
     synopsis:
       "‘When I was six, I fell into a well. Whether I ever got out, I couldn’t say.’ Based on a surrealist prose poem, Ways That I Have Died is one life story told through multiple deaths."
   },
@@ -27,7 +27,7 @@ export const FILMS: Film[] = [
     year: '2026',
     director: 'MIKA ŌGAI',
     status: 'Short Documentary',
-    thumbnailUrl: 'https://storage.googleapis.com/somnia/BAKUSTILL.jpg',
+    thumbnailUrl: '/images/baku.jpeg',
     synopsis:
       "In a future where dreams have vanished, a filmmaker sifts through recordings of her late father’s interviews conducted with Japan’s final dreamers, unraveling both the mystery of their disappearance and her own longing to reconnect with him."
   },
@@ -37,7 +37,7 @@ export const FILMS: Film[] = [
     year: 'TBD',
     director: 'Mika Ogai',
     status: 'Live Action Short',
-    thumbnailUrl: 'https://storage.googleapis.com/somnia/IMG_0176.PNG',
+    thumbnailUrl: '/images/fox.png',
     synopsis:
       "A weekly date night is derailed when an off-hand confession about ‘helping a fox’ turns an ordinary evening into a claustrophobic reckoning about mercy, control, and the impossibility of knowing another person."
   },
@@ -47,7 +47,7 @@ export const FILMS: Film[] = [
     year: 'TBD',
     director: 'TBD',
     status: 'Short Documentary',
-    thumbnailUrl: 'https://storage.googleapis.com/somnia/IMG_0180.jpg',
+    thumbnailUrl: '/images/temor.jpeg',
     synopsis:
       "Set against the backdrop of socio-political change and civil unrest in Timor-Leste, a man goes on a journey to forgive his spiritual ancestral grandfather, the crocodile, for killing his brother."
   },
@@ -57,7 +57,7 @@ export const FILMS: Film[] = [
     year: '2026',
     director: 'Mika Ogai',
     status: 'Short Fiction',
-    thumbnailUrl: 'https://storage.googleapis.com/somnia/IMG_0253.JPG',
+    thumbnailUrl: '/images/sleepyhead.jpeg',
     synopsis:
       "When dreams disappear from sleep and reappear in karaoke rooms across London, a die-hard karaoke fan wanders the streets in search of an empty karaoke room. Whilst Londoners grieve the loss of dreams themselves, she must decide whether to cling to the past or return to it in her dreams."
   }
