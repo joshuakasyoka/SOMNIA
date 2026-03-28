@@ -7,7 +7,7 @@ export const FILMS: Film[] = [
     year: '2023',
     director: 'MIKA ŌGAI',
     status: 'Short Documentary',
-    thumbnailUrl: '/images/glossary of an empty orchestra.jpeg',
+    thumbnailUrl: '/images/glossary-of-an-empty-orchestra.jpeg',
     synopsis:
       "Boundaries between reality, memories and dreams are temporarily dissolved in order to parallel the film-maker’s internal sense of liminality as a ‘hāfu’ (half-Japanese, half-Australian). Drawing on Japanese folklore, memories of the past, and contemporary anxieties, the narrator journeys across her father’s hometown of Sōma, Fukushima, in search of a language that can temporarily capture such liminal sensations.",
   },
@@ -17,7 +17,7 @@ export const FILMS: Film[] = [
     year: '2025',
     director: 'JESSIE IRVIN ROSE',
     status: 'Short Fiction',
-    thumbnailUrl: '/images/Ways that I have died.jpeg',
+    thumbnailUrl: '/images/ways-that-i-have-died.jpeg',
     synopsis:
       "‘When I was six, I fell into a well. Whether I ever got out, I couldn’t say.’ Based on a surrealist prose poem, Ways That I Have Died is one life story told through multiple deaths."
   },
