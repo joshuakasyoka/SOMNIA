@@ -38,17 +38,15 @@ const Home: React.FC = () => {
       </section>
 
       {/* Philosophy Section */}
-      <section className="max-w-none mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-32 mb-[360px] px-6 md:px-[120px] font-serif text-[24px] md:text-[40px] leading-[1.2] tracking-tight text-[#000000] text-left lg:text-left">
-        <div>
-          <p className="w-[600px]">
-          Somnia began in order to cultivate experience through opportunity, realising the ideas of emerging talent on a professional scale. We aim to connect people who we trust and admire at the outset of their careers, in order to facilitate these untold stories coming to life.
-
+      <section className="max-w-none mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-32 mb-[360px] px-6 md:px-[120px] font-serif text-[24px] md:text-[40px] leading-[1.2] tracking-tight text-[#000000] text-center lg:text-left">
+        <div className="w-full flex justify-center lg:justify-start">
+          <p className="w-full max-w-[600px]">
+            Somnia began in order to cultivate experience through opportunity, realising the ideas of emerging talent on a professional scale. We aim to connect people who we trust and admire at the outset of their careers, in order to facilitate these untold stories coming to life.
           </p>
         </div>
-        <div>
-          <p className="w-[600px] text-left">
-          We care about stories that blur boundary lines between genres, feelings, and even mediums, creating an uncanny newness. We love projects where the familiar becomes strange, the intimate is prised open, and what is known lingers just beyond recognition. 
-
+        <div className="w-full flex justify-center lg:justify-start">
+          <p className="w-full max-w-[600px]">
+            We care about stories that blur boundary lines between genres, feelings, and even mediums, creating an uncanny newness. We love projects where the familiar becomes strange, the intimate is prised open, and what is known lingers just beyond recognition.
           </p>
         </div>
       </section>
