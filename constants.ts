@@ -68,12 +68,12 @@ export const TEAM: TeamMember[] = [
     name: "Mika Ogai",
     role: "Co-Founder / Director",
     bio: "Mika Ogai is a Japanese-Australian filmmaker and writer whose work explores the intersection of identity, folklore, and human-nature relationships. Her work has gained international recognition (Best International Short Nominee, Best International Short Director Nominee) at festivals in Turkey, London and Melbourne. Her work has also been featured in publications like Non-Fiction and The All Red Line. ",
-    imageUrl: "https://storage.googleapis.com/somnia/IMG_0253.JPG"
+    imageUrl: '/images/mika.png'
   },
   {
     name: "Jessie Irvin Rose",
     role: "Co-Founder / Producer",
     bio: "Jessie Irvin Rose is a producer and writer based in London, having previously worked across film, TV and theatre in production, technical and creative support capacities. With an academic background in ethnographic Social Anthropology and an MA in Creative Writing, she is propelled towards social and cultural intricacies when finding and supporting new stories. Ways That I Have Died was her directorial debut. Outside of her film work, she is the head writer of The All Red Line magazine, and has published her prose work across indie press.",
-    imageUrl: "https://storage.googleapis.com/somnia/A56982BD-BF72-43D8-AAA9-8EDCD58846B8_1_105_c.jpeg"
+    imageUrl: '/images/jessie.png'
   }
 ];

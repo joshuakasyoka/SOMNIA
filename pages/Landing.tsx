@@ -6,8 +6,7 @@ const Landing: React.FC = () => {
   const homeSectionRef = useRef<HTMLDivElement>(null);
   const [videoLoaded, setVideoLoaded] = useState(false);
 
-  // Updated to the stable direct link provided by the user
-  const videoUrl = "https://storage.googleapis.com/somnia/SOMNIA_Website_Animation_01%20(1).mp4";
+  const videoUrl = '/videos/landing.mp4';
 
   useEffect(() => {
     if (videoRef.current) {
